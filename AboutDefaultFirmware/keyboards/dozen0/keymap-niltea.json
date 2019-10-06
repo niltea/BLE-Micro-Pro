@@ -1,0 +1,21 @@
+{
+  "keyboard":"dozen0",
+  "keymap":"default_a1de199",
+  "layout":"LAYOUT",
+  "layers":[
+    [
+      "KC_TAB", "KC_M", "KC_L",    "KC_E",       "KC_LBRC", "KC_RBRC", 
+      "MO(1)",  "KC_V", "KC_LGUI", "LGUI(KC_Z)", "KC_B",    "KC_SPC"
+    ],
+    [
+      "MO(2)",   "KC_ESC",  "LGUI(KC_0)", "KC_H",       "KC_MINS", "LGUI(KC_MINS)",
+      "KC_TRNS", "KC_LALT", "LGUI(KC_D)", "SGUI(KC_Z)", "KC_EQL",  "LGUI(KC_EQL)"
+    ],
+    [
+      "KC_TRNS", "AD_WO_L", "ADV_ID0", "ADV_ID1", "DEL_ID0", "BATT_LV",
+      "KC_TRNS", "ENT_DFU", "USB_DIS", "USB_EN",  "BLE_DIS", "BLE_EN"
+    ]
+  ],
+  "author":"niltea",
+  "notes":""
+}
